@@ -1,7 +1,5 @@
 # 📊 Productivity Dashboard - README
 
-![Dashboard Screenshot](https://i.imgur.com/JQ8w0Ej.png) *(Example screenshot - replace with actual screenshot)*
-
 ## 🌟 Overview
 
 A clean, single-file productivity dashboard with task management, habit tracking, mood logging, Pomodoro timer, and notes - all in HTML, CSS, and vanilla JavaScript. No frameworks or build steps required!
@@ -38,6 +36,13 @@ A clean, single-file productivity dashboard with task management, habit tracking
 - Responsive design
 - All data persists in localStorage
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Harshithad9/Single-Page-Explainer.git
+## Live Demo
+
+➡️ [View the live timeline here](productivity-dashboard-seven.vercel.app
+)
 
 
 **Enjoy your productivity boost!** 🚀
